@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dannytranvu0307/testServe.git/static/css/main.2ffeadfb.css",
+    "main.js": "/dannytranvu0307/testServe.git/static/js/main.848d87b9.js",
+    "static/js/787.28cb0dcd.chunk.js": "/dannytranvu0307/testServe.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/dannytranvu0307/testServe.git/index.html",
+    "main.2ffeadfb.css.map": "/dannytranvu0307/testServe.git/static/css/main.2ffeadfb.css.map",
+    "main.848d87b9.js.map": "/dannytranvu0307/testServe.git/static/js/main.848d87b9.js.map",
+    "787.28cb0dcd.chunk.js.map": "/dannytranvu0307/testServe.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ffeadfb.css",
+    "static/js/main.848d87b9.js"
+  ]
+}
